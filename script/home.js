@@ -1,5 +1,5 @@
 $(document).ready(function(){
     $('#goto-skills').click(function(){
-        $('html').load("skills.html"); 
+        $('body').load("skills.html"); 
     });
 });
